@@ -10,6 +10,7 @@ The objective of this project was to analyze HR data and identify employees elig
 **Key Insights**
 
 **Promotion Eligibility**
+
 Out of a total of 80 employees, 19 were identified as due for promotion, while 61 were not yet due. This helps HR prioritize development opportunities for those ready to move into leadership or specialized roles.
 
 **Demographic Breakdown**
